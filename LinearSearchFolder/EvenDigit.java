@@ -1,3 +1,4 @@
+package LinearSearchFolder;
 import java.util.*;
 public class EvenDigit {
     public static void main(String[] args) {

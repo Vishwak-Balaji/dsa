@@ -1,3 +1,4 @@
+package LinearSearchFolder;
 import java.util.*;
 
 public class LinearSearch2  {

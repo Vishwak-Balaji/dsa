@@ -1,3 +1,4 @@
+package LinearSearchFolder;
 public class MaxVal {
     public static void main(String[] args) {
         

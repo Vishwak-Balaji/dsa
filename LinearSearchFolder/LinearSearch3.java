@@ -1,3 +1,4 @@
+package LinearSearchFolder;
 //Search in a range
 import java.util.*;
 public class LinearSearch3 {
